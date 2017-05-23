@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "187198170355",
+    "firebase_url": "https://tlumachdictionary-9ad19.firebaseio.com",
+    "project_id": "tlumachdictionary-9ad19",
+    "storage_bucket": "tlumachdictionary-9ad19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187198170355:android:56fbb4b4660157f1",
+        "android_client_info": {
+          "package_name": "com.example.sasha.tlumach_dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187198170355-asei571k2itp14404tdfi9j8irnc0gue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sasha.tlumach_dictionary",
+            "certificate_hash": "4589647f07e57a05e9fab255a0117978eab1490d"
+          }
+        },
+        {
+          "client_id": "187198170355-02dpdn4u47bmr12o7oj903h1r3sq42gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPnKZKsK5Tud8KXpu73u6JoqTqiUtMPM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187198170355-02dpdn4u47bmr12o7oj903h1r3sq42gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

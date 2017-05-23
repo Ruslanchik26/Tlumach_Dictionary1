@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/m_seach"
+            android:icon="@drawable/ic_seach"
+            android:title="Пошук" />
+        <item
+            android:id="@+id/m_enter"
+            android:icon="@drawable/ic_history"
+            android:title="Вхід в обліковий запис" />
+
+        <item
+            android:id="@+id/m_add"
+            android:icon="@drawable/ic_add"
+            android:title="Додавання" />
+                <item
+            android:id="@+id/m_help"
+            android:icon="@drawable/ic_help"
+            android:title="Допомога" />
+        <item
+            android:id="@+id/m_about_aplication"
+            android:icon="@drawable/ic_about_aplication"
+            android:title="Про додаток" />
+    </group>
+</menu>
